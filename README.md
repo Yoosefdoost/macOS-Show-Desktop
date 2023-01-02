@@ -1,16 +1,17 @@
-# macOS-Show-Desktop
-A simple macOS app to hide all apps and show the desktop, similar to the bottom right corner of the Windows taskbar.
+# What is "macOS Show Desktop"?
+The macOS-Show-Desktop is simple app to hide all open windows in macOS and show the desktop, similar to the bottom right corner of the Windows taskbar.
 
-Binary file: <a href="https://github.com/YoosefDoost/macOS-Show-Desktop/releases">Download macOS Show Desktop</a> 
+# How to download:
+<a href="https://github.com/YoosefDoost/macOS-Show-Desktop/releases">Download macOS Show Desktop [Click Here]</a> 
 
-How to install:
+# How to install:
 
     1. Download the Zip file
     2. Extract, then drag the Zip file contents (Show Desktop.app) into the App folder
     3. Drag the Show Desktop.app into macOS Dock
-    4. Enjoy the app!
+    4. Enjoy it!
 
-Ho to define a keyboard shortcut:
+# Ho to define a keyboard shortcut:
 
     1. In the downloaded Zip file, open the "Keyboard Shortcut" folder, double-click on "Show Desktop.workflow" and install the service.
     2. Open a Finder window, then in the top menu bar, go to "Finder > Services > Services Preferences"
