@@ -8,6 +8,6 @@ How to install:
     Drag the Show Desktop.app into macOS Dock
     Enjoy the app!
 
-Credits:
-Icon: bit.ly/3GclNP2
+Credits:<br/>
+Icon: bit.ly/3GclNP2 <br/>
 Apple script: Daniel Beck
