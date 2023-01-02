@@ -11,16 +11,19 @@ How to install:
     4. Enjoy the app!
 
 Ho to define a keyboard shortcut:
+
     1. In downloaded Zip file open the "Keyboard Shortcut" folder and double-click on "Show Desktop.workflow" and install the service.
     2. Open a Finder window, then in the top menu bar, go to "Finder > Services > Services Preferences"
     3. Find the "Show Desktop" and click on the "Add Shortcut" button for defining your desired keyboard shortcut.
     4. Enjoy it!
 
-<img src="https://i.ibb.co/RzX03Yg/1-Double-click-on-Show-Desktop-workflow-and-Install-the-Service.png">
+Here is the step by step graphical guide to define a keyboard shortcut:
 
-<img src="https://i.ibb.co/mXgJzMr/2-Go-to-Services-Preferences.jpg">
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/1.%20Double-click%20on%20%5BShow%20Desktop.workflow%5D%20and%20Install%20the%20Service.png">
 
-<img src="https://i.ibb.co/hFyyg60/3-Find-Show-Desktop-and-click-on-Add-Shortcut-and-define-your-desired-Keyboard-Shortcut.png">
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/2.%20Go%20to%20%5BServices%20Preferences%5D.jpeg">
+
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/3.%20Find%20%5BShow%20Desktop%5D%20and%20click%20on%20%5BAdd%20Shortcut%5D%20and%20define%20your%20desired%20Keyboard%20Shortcut.png">
 
 
 Credits:<br/>
