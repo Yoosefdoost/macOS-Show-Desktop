@@ -15,11 +15,13 @@ Ho to define a keyboard shortcut:
     2. Open a Finder window, then in the top menu bar, go to "Finder > Services > Services Preferences"
     3. Find the "Show Desktop" and click on the "Add Shortcut" button for defining your desired keyboard shortcut.
     4. Enjoy it!
-<center>
-    <img src="https://i.ibb.co/RzX03Yg/1-Double-click-on-Show-Desktop-workflow-and-Install-the-Service.png" alt="1-Double-click-on-Show-Desktop-workflow-and-Install-the-Service" border="0">
-    <img src="https://i.ibb.co/mXgJzMr/2-Go-to-Services-Preferences.jpg" alt="2-Go-to-Services-Preferences" border="0">
-    <img src="https://i.ibb.co/hFyyg60/3-Find-Show-Desktop-and-click-on-Add-Shortcut-and-define-your-desired-Keyboard-Shortcut.png" alt="3-Find-Show-Desktop-and-click-on-Add-Shortcut-and-define-your-desired-Keyboard-Shortcut" border="0">
-</center>
+
+<img src="https://i.ibb.co/RzX03Yg/1-Double-click-on-Show-Desktop-workflow-and-Install-the-Service.png">
+
+<img src="https://i.ibb.co/mXgJzMr/2-Go-to-Services-Preferences.jpg">
+
+<img src="https://i.ibb.co/hFyyg60/3-Find-Show-Desktop-and-click-on-Add-Shortcut-and-define-your-desired-Keyboard-Shortcut.png">
+
 
 Credits:<br/>
 Icon: bit.ly/3GclNP2 <br/>
