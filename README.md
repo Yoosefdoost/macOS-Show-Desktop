@@ -12,12 +12,12 @@ How to install:
 
 Ho to define a keyboard shortcut:
 
-    1. In downloaded Zip file open the "Keyboard Shortcut" folder and double-click on "Show Desktop.workflow" and install the service.
+    1. In the downloaded Zip file, open the "Keyboard Shortcut" folder, double-click on "Show Desktop.workflow" and install the service.
     2. Open a Finder window, then in the top menu bar, go to "Finder > Services > Services Preferences"
-    3. Find the "Show Desktop" and click on the "Add Shortcut" button for defining your desired keyboard shortcut.
+    3. Find the "Show Desktop" and click on the "Add Shortcut" button to define your desired keyboard shortcut.
     4. Enjoy it!
 
-Here is the step by step graphical guide to define a keyboard shortcut:
+Here is the step-by-step graphical guide to defining a keyboard shortcut:
 
 <img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Images/Keyboard%20Shortcut%20%5BTutorial%5D/1.%20Install%20the%20Service.png">
 
