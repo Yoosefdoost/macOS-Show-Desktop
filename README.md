@@ -19,11 +19,11 @@ Ho to define a keyboard shortcut:
 
 Here is the step by step graphical guide to define a keyboard shortcut:
 
-<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/1.%20Double-click%20on%20%5BShow%20Desktop.workflow%5D%20and%20Install%20the%20Service.png">
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Images/Keyboard%20Shortcut%20%5BTutorial%5D/1.%20Install%20the%20Service.png">
 
-<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/2.%20Go%20to%20%5BServices%20Preferences%5D.jpeg">
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Images/Keyboard%20Shortcut%20%5BTutorial%5D/2.%20Go%20to%20Services%20Preferences.jpg">
 
-<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Keyboard%20Shortcut/3.%20Find%20%5BShow%20Desktop%5D%20and%20click%20on%20%5BAdd%20Shortcut%5D%20and%20define%20your%20desired%20Keyboard%20Shortcut.png">
+<img src="https://raw.githubusercontent.com/Yoosefdoost/macOS-Show-Desktop/main/Images/Keyboard%20Shortcut%20%5BTutorial%5D/3.%20Define%20a%20Keyboard%20Shortcut.png">
 
 
 Credits:<br/>
